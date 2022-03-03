@@ -10,3 +10,5 @@ The username is: asier and the password is: 12345
 ## Run the app
 To run the app you have to use this sentence: python manage.py runserver and then enter to localhost with django port.
 
+## Flake8
+I have use flake8 to know if some variables are used or not.
