@@ -12,3 +12,4 @@ To run the app you have to use this sentence: python manage.py runserver and the
 
 ## Flake8
 I have use flake8 to know if some variables are used or not.
+![Snímek obrazovky pořízený 2022-03-03 15-41-48](https://user-images.githubusercontent.com/100837222/156587385-278e205d-aaa8-4521-8ed2-9abb44bd8ab6.png)
