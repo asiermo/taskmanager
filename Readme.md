@@ -3,6 +3,7 @@
 It's and app where you can create task, edit and delete them.
 There are two class model, one for the tasks and the other one for the users, I have use a relation between the models but in the user field, appears the global object and not the username.
 It's compulsory to login or register to create, edit or delete a task.
+<br/>
 ![Snímek obrazovky pořízený 2022-03-03 15-43-40](https://user-images.githubusercontent.com/100837222/156587539-dae6788e-5444-4a32-88ee-8671e122f384.png)
 
 ## Login
