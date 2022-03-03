@@ -11,7 +11,7 @@ The username is: asier and the password is: 12345
 ![Snímek obrazovky pořízený 2022-03-03 15-44-22](https://user-images.githubusercontent.com/100837222/156587637-5d46ed02-e786-46dd-a8b8-13e2de8ee4cd.png)
 
 ## Run the app
-To run the app you have to use this sentence: python manage.py runserver and then enter to localhost with django port.
+To run the app you have to use this sentence: python manage.py runserver and then enter to localhost with django port, 'localhost:8000'.
 
 ## Flake8
 I have use flake8 to know if some variables are used or not.
