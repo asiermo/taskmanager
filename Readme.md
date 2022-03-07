@@ -1,7 +1,7 @@
 # Task Manager
 
 It's and app where you can create, edit and delete task.
-There are two class model, one for the tasks and the other one for the users, I have use a relation between the models but in the user field, appears the global object and not the username.
+There are two class model, one for the tasks and the other one for the users, I have use a relation between the models.
 It's compulsory to login or register to create, edit or delete a task.
 <br/>
 ![Snímek obrazovky pořízený 2022-03-07 12-40-46](https://user-images.githubusercontent.com/100837222/157027704-90102c73-4586-4217-8283-53368bca877f.png)
