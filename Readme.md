@@ -19,12 +19,15 @@ I have use flake8 to know if some variables are used or not.
 ![Snímek obrazovky pořízený 2022-03-03 15-41-48](https://user-images.githubusercontent.com/100837222/156587385-278e205d-aaa8-4521-8ed2-9abb44bd8ab6.png)
 
 ## Admin part
+
+### Task
 Now all task fields appears and you can edit the start and end dates.
 On the right side there is a filter to see an specific information. <br/>
 If you wanna search something at the top, there is a search bar, for tasks only search by title and description.
 
 ![Snímek obrazovky pořízený 2022-03-09 14-02-39](https://user-images.githubusercontent.com/100837222/157447069-1e15ac16-ebec-4841-9c10-71cf25e7ef14.png)
 
+### User
 For the users zone on the right side you can filter by email and user type.
 You can edit the usertype without entering to the object. <br/>
 If you want to search a user you can search by name, surname, email and user type.
